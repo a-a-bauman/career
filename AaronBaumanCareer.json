@@ -1,0 +1,40 @@
+{
+  "Contact Information": {
+    "Name": "Aaron Bauman",
+    "Phone": "330.439.0043",
+    "Email": "aaron.a.bauman@gmail.com",
+    "SocialMedia": ["www.linkedin.com/in/aaronbauman"],
+    "GitHub": ["https://github.com/a-a-bauman", "https://github.com/abauman-7signal"]
+  },
+  "Employment": [{
+    "Employer": "7SIGNAL Solutions",
+    "Date": "November, 2015 - Present",
+    "Roles": ["Senior Software Engineer", "Team Lead"]
+  }, {
+    "Employer": "Codonics",
+    "Date": "1998-2015",
+    "Roles": ["Senior Software Engineer", "Mentor", "Team Lead"]
+  }, {
+    "Employer": "Quatech",
+    "Date": "1992-1998",
+    "Roles": ["Senior Project Engineer", "User Documentation"]
+  }, {
+    "Employer": "Telxon",
+    "Date": "1990-1992",
+    "Roles": ["Design Engineer"]
+  }, {
+    "Employer": "Keithley Instruments",
+    "Date": "1987-1990",
+    "Roles": ["Design Engineer"]
+  }, {
+    "Employer": "Telxon",
+    "Date": "1985-1986",
+    "Roles": ["Co-Op / Intern"]
+  }],
+  "Education": {
+    "University": "University of Akron",
+    "Degree": "Bachelors in Electrical Engineering",
+    "Honors": ["Tau Beta Pi Engineering Honor Society", "Eta Kappa Nu Electrical Engineering Honor Society"],
+    "Earned Date": "May, 1987"
+  }
+}
