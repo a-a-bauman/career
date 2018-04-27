@@ -6,6 +6,23 @@
     "SocialMedia": ["www.linkedin.com/in/aaronbauman"],
     "GitHub": ["https://github.com/a-a-bauman", "https://github.com/abauman-7signal"]
   },
+  "Technical": {
+    "Languages": ["Java", "JavaScript", "C", "C++", "Python"],
+    "OS": ["macOS", "Linux", "Android", "iOS", "Windows"],
+    "ServerRuntime": ["Node.js", "Tomcat"],
+    "Targets": ["Android", "Windows", "Linux", "Embedded (Custom OS)"],
+    "Methodologies": ["Test Driven Design (TDD)", "Scrum", "Kanban", "Waterfall"],
+    "BuildDeploy": ["Continuous Integration (CI)", "Ansible", "BASH"],
+    "ProblemResolution": ["Monitoring Tools", "Root Cause Analysis"],
+    "Quality": ["Unit Tests", "Integration Tests", "Functional Tests", "Failure Mode and Effects Analysis (FMEA)"],
+    "DB": ["Relational", "NoSQL"],
+    "Stacks": ["Web Services", "Mobile Application", "Swing Application", "Windows Application", "Scripts", {"Device Drivers": ["Windows", "Linux"]}, "Embedded"]
+  },
+  "SoftSkills": {
+    "Usability": ["User Interface Design", "Touch and Feel of Hardware"],
+    "Communication": ["Technical and User Documentation", "Presenting"],
+    "Leadership": ["Mentor", "Recruiting and Hiring", "Project and Product Management"]
+  },
   "Employment": [{
     "Employer": "7SIGNAL Solutions",
     "Date": "November, 2015 - Present",
